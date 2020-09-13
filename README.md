@@ -1,4 +1,24 @@
-# nbdev template
+# nbdev playground
+> Exploring nbdev project
 
-Use this template to more easily create your nbdev project.
+
+This file will become your README and also the index of your documentation.
+
+## Install
+
+`pip install nbdev_playground`
+
+## How to use
+
+Follow the doc
+
+```python
+1+1
+```
+
+
+
+
+    2
+
 
